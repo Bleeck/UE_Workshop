@@ -1,6 +1,6 @@
 # WORKSHOP
 
-### [session 1 : Project Creation and Blueprint Tutorial](https://bleeck.github.io/UE_Workshop/Session_1)
+### [session 1 : Project Creation and Blueprint Tutorial](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
   * [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
   * Blueprint Basics
   * Variables (variable types / arrays / dictionary / lists / structs / enums)
