@@ -1,6 +1,9 @@
 # Session 1
 
 ---
+* [Creating a new project](##creating_a_new_project)
+
+---
 
 ## Creating a new project
   - [ ]  <span style ="color:pink"> Launch the "Epic Games Launcher".</span>
