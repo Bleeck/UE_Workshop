@@ -2,7 +2,7 @@
 
 ---
 
-### Creating a new project
+## Creating a new project
   - [ ]  <span style ="color:pink"> Launch the "Epic Games Launcher".</span>
   - [ ]  <span style ="color:pink"> Navigate to Unreal Engine->Library</span>
   - [ ]  <span style ="color:pink"> Click on launch on version 4.26.1</span>
@@ -54,3 +54,5 @@
       from the standard systems already implemented in unreal)
 
   [Where C++ is pretty much mandatory](https://forums.unrealengine.com/community/general-discussion/121087-blueprints-vs-c-programming-which-one-to-use?148076-Blueprints-Vs-C-Programming-Which-one-to-use=&viewfull=1#post1013378)
+
+---
