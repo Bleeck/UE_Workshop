@@ -3,6 +3,7 @@
 ### [session 1 : Project Creation and Blueprint Tutorial](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
   * [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
   * [Editor Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-basics)
+  * [Play In Editor](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#play-in-editor)
   * Blueprint Basics
   * Variables (variable types / arrays / dictionary / lists / structs / enums)
   * Debug draw

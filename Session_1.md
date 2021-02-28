@@ -4,6 +4,8 @@
 ---
 
 * [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
+* [Editor Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-basics)
+* [Play In Editor](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#play-in-editor)
 
 ---
 
@@ -70,8 +72,32 @@
 ![](./Assets/Session1/Editor.jpg)
 </details>   
 
-  * Actor placement browser : this usually doesn't get used that much. Mostly used to place lights and volumes
-  * ToolBar : Quick access to commonly used commands and menus
-  * Content Browser : the asset library of the project
-  * World Outliner : lists all of the actors placed in a level
-  * Details : shows the properties of the selected level object
+    * Actor placement browser : this usually doesn't get used that much. Mostly
+    used to place lights and volumes
+    * ToolBar : Quick access to commonly used commands and menus
+    * Content Browser : the asset library of the project
+    * World Outliner : lists all of the actors placed in a level
+    * Details : shows the properties of the selected level object
+
+#### [Play In Editor](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+<details>
+<summary>click to expand </summary>
+
+![](./Assets/Session1/PIE.jpg)
+![](./Assets/Session1/Eject.jpg)
+</details>   
+
+    PIE. By clicking on the play button (or pressing alt + P) the
+    editor enters Play in Editor mode. In this mode, the game is running in the
+    viewport. To exit PIE press the escape key.
+
+    When PIE starts, LMB clicking in the viewport will lock the mouse cursor to
+    that viewport. To release the cursor either press Escape to stop PIE or press
+    Shift + F1 to regain control. After regaining control, if you click back
+    in the viewport, you will again lose control. In order to select and
+    manipulate objects during PIE, click on the Eject Button (or press F8).
+
+
+
+<span style = "color:red">WARNING</span>: All changes done in the level during play in     editor are LOST when exiting PIE.
