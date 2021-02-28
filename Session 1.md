@@ -53,38 +53,4 @@
       - sufficient for building a complete game (that doesn't heavily deviate
       from the standard systems already implemented in unreal)
 
-<details>
-<summary> <span style = "color:yellow">from the unreal engine forums</span> </summary>
-
----
-  Epic could do a better job of clarifying what games you can / can't 'typically' make in BP...
-  I love Visual-Programming but you always wonder where you're going to run out of road:
-
-  Some quick examples of where BP won't cut it, or where C++ is usually needed etc:
-
-  1. Networking / Multiplayer / Steam...
-
-  2. Advanced Math topics like Quats...
-
-  3. Helpers in areas like Split-Screen...
-
-  4. Databases for RTS / RPG games...
-
-  5. Large Worlds: Rendering + Double Precision etc.
-
-  6. Anything heavy on Physics i.e. Physics Rewind.
-
-  7. Advanced RTS games or MMORPG in general.
-
-  8. Spherical-Terrain / Spherical-Navmesh / 'Planet' type games...
-
-  9. Runtime Terrain - Making Landscape changes in-game etc..
-
-  10. Anywhere Customization is needed. Just a General example:
-  Wanted to change Skylight properties at runtime the other day..
-  Couldn't do it, because nothing is exposed or its all Read-Only...
-
-  #### [link](https://forums.unrealengine.com/community/general-discussion/121087-blueprints-vs-c-programming-which-one-to-use?148076-Blueprints-Vs-C-Programming-Which-one-to-use=&viewfull=1#post1013378)
----
-
-</details>
+  [<span style = "color:yellow"> Where C++ is pretty much mandatory</span>](https://forums.unrealengine.com/community/general-discussion/121087-blueprints-vs-c-programming-which-one-to-use?148076-Blueprints-Vs-C-Programming-Which-one-to-use=&viewfull=1#post1013378)
