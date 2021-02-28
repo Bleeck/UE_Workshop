@@ -79,6 +79,8 @@
     * World Outliner : lists all of the actors placed in a level
     * Details : shows the properties of the selected level object
 
+---
+
 #### [Play In Editor](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
 <details>
