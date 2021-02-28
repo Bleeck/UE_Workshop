@@ -1,6 +1,8 @@
 # Session 1
+[Back to workshop](https://github.com/Bleeck/UE_Workshop)
 
 ---
+
 * [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
 
 ---
