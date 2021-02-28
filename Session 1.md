@@ -53,4 +53,4 @@
       - sufficient for building a complete game (that doesn't heavily deviate
       from the standard systems already implemented in unreal)
 
-  [<span style = "color:yellow"> Where C++ is pretty much mandatory</span>](https://forums.unrealengine.com/community/general-discussion/121087-blueprints-vs-c-programming-which-one-to-use?148076-Blueprints-Vs-C-Programming-Which-one-to-use=&viewfull=1#post1013378)
+  [Where C++ is pretty much mandatory](https://forums.unrealengine.com/community/general-discussion/121087-blueprints-vs-c-programming-which-one-to-use?148076-Blueprints-Vs-C-Programming-Which-one-to-use=&viewfull=1#post1013378)
