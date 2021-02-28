@@ -65,4 +65,3 @@
   * Niagara
   * Animation Retargeting
   * Blender
-"# UE_Workshop"
