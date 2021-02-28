@@ -1,11 +1,5 @@
 # WORKSHOP
 
-### [session 0] Prerequisites:
-  - Unreal 4.26.1
-  - Blender 2.90.1
-  - SVN
-  - Mailing list
-
 ### [session 1 : Project Creation and Blueprint Tutorial](https://github.com/Bleeck/UE_Workshop/blob/main/Session%201.md)
   - First Person project creation
   - Blueprint Basics
