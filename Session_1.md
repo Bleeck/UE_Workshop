@@ -1,7 +1,7 @@
 # Session 1
 
 ---
-* [Creating a new project](##creating_a_new_project)
+* [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
 
 ---
 
