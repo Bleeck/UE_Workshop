@@ -34,7 +34,7 @@
   <details>
   <summary>click to expand </summary>
 
-  ![](./Assets/ProjectStartAssets/Selectgames.jpg)
+  ![](./Assets/ProjectStartAssets/SelectGames.jpg)
   ![](./Assets/ProjectStartAssets/SelectFirstPerson.jpg)
   ![](./Assets/ProjectStartAssets/ProjectName.jpg)
   </details>  
