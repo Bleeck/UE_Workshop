@@ -7,7 +7,7 @@
 
 ---
 
-## Creating a new project
+## [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
   - [ ]  <span style ="color:pink"> Launch the "Epic Games Launcher".</span>
   - [ ]  <span style ="color:pink"> Navigate to Unreal Engine->Library</span>
   - [ ]  <span style ="color:pink"> Click on launch on version 4.26.1</span>
@@ -61,3 +61,17 @@
   [Where C++ is more or less mandatory](https://forums.unrealengine.com/community/general-discussion/121087-blueprints-vs-c-programming-which-one-to-use?148076-Blueprints-Vs-C-Programming-Which-one-to-use=&viewfull=1#post1013378)
 
 ---
+
+## [Editor Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+<details>
+<summary>click to expand </summary>
+
+![](./Assets/Session1/Editor.jpg)
+</details>   
+
+  * Actor placement browser : this usually doesn't get used that much. Mostly used to place lights and volumes
+  * ToolBar : Quick access to commonly used commands and menus
+  * Content Browser : the asset library of the project
+  * World Outliner : lists all of the actors placed in a level
+  * Details : shows the properties of the selected level object
