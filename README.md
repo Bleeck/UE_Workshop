@@ -6,7 +6,7 @@
   - SVN
   - Mailing list
 
-### [session 1] Project Creation and Blueprint Tutorial
+### [session 1 : Project Creation and Blueprint Tutorial](https://github.com/Bleeck/UE_Workshop/blob/main/Session%201.md)
   - First Person project creation
   - Blueprint Basics
   - Variables (variable types / arrays / dictionary / lists / structs / enums)
@@ -71,4 +71,4 @@
   - Niagara
   - Animation Retargeting
   - Blender
-"# UE_Workshop" 
+"# UE_Workshop"
