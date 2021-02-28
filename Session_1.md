@@ -9,7 +9,7 @@
 
 ---
 
-## [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+### [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
   - [ ]  <span style ="color:pink"> Launch the "Epic Games Launcher".</span>
   - [ ]  <span style ="color:pink"> Navigate to Unreal Engine->Library</span>
   - [ ]  <span style ="color:pink"> Click on launch on version 4.26.1</span>
@@ -64,7 +64,7 @@
 
 ---
 
-## [Editor Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+### [Editor Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
 <details>
 <summary>click to expand </summary>
