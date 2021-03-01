@@ -168,31 +168,31 @@
      viewport. In order to change it perform the following steps:
 
   <details>
-  <summary>Search and open "mouse settings" in start menu </summary>
+  <summary> 1: Search and open "mouse settings" in start menu </summary>
 
   ![](./Assets/Session1/mouse_settings.jpg)
   </details>   
 
   <details>
-  <summary>Click on "Additional Mouse Options" </summary>
+  <summary> 2: Click on "Additional Mouse Options" </summary>
 
   ![](./Assets/Session1/Additional_Mouse_Options.jpg)
   </details>   
 
   <details>
-  <summary>Go to "Pointers" -> select "Precision Cursor" -> Click on browser </summary>
+  <summary> 3: Go to "Pointers" -> select "Precision Cursor" -> Click on browser </summary>
 
   ![](./Assets/Session1/Precision_Select.jpg)
   </details>   
 
   <details>
-  <summary>Navigate to "C:/Windows/Cursors" and select "aero_arrow.cur". Click on "Open" </summary>
+  <summary> 4: Navigate to "C:/Windows/Cursors" and select "aero_arrow.cur". Click on "Open" </summary>
 
   ![](./Assets/Session1/Cursors.jpg)
   </details>   
 
   <details>
-  <summary>Click OK to close the window</summary>
+  <summary> 5: Click OK to close the window</summary>
 
   ![](./Assets/Session1/OkMouse.jpg)
   </details>   
