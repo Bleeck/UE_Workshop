@@ -126,11 +126,17 @@
   ![](./Assets/Session1/disable_autosave.jpg)
   </details>
 
+      I personally never rely on autosave.
+
   <details>
   <summary> Disable Game Sound </summary>
 
   ![](./Assets/Session1/disable_game_sounds.jpg)
   </details>
+
+      If you don't need game sounds, it's easier to just disable them in the
+      editor.
+
 
   <details>
   <summary> Disable Use Camera Location From Play In Viewport </summary>
@@ -138,12 +144,21 @@
   ![](./Assets/Session1/camera_location.jpg)
   </details>
 
+    This setting will cause the viewport camera to return to where it was before
+    the PIE session started. Useful if you're editing a mission and don't want
+    to have to keep navigating to the mission start location.
+
+
   <details>
   <summary> Enable Blueprint Save On Successful Compile </summary>
 
   ![](./Assets/Session1/save_on_compile.jpg)
   </details>
 
+      This setting will cause the editor to automatically save your blueprint
+      when it successfully compiles. I've found that it is extremely rare that
+      you don't also click the save button after compiling (usually it's because
+      you forget to save)
   [ ]()
   [ ]()
 
