@@ -6,7 +6,7 @@
 * [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
 * [Editor Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-basics)
 * [Play In Editor](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#play-in-editor)
-
+* [Editor Settings](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-settings)
 ---
 
 ### [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
@@ -106,11 +106,43 @@
 
 ---
 
-### [Editor Settings]
-    Disable Autosave
-    Disable Game Sound
-    Disable Use Camera Location From Play In Viewport
+### [Editor Settings](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+  <details>
+  <summary> Open Editor Preferences </summary>
 
+  ![](./Assets/Session1/Editor_Preferences.jpg)
+  </details>
+
+  <details>
+  <summary> Type in "Search Detail" textbox to filter settings </summary>
+
+  ![](./Assets/Session1/filter_settings.jpg)
+  </details>
+
+
+  <details>
+  <summary> Disable Autosave </summary>
+
+  ![](./Assets/Session1/disable_autosave.jpg)
+  </details>
+
+  <details>
+  <summary> Disable Game Sound </summary>
+
+  ![](./Assets/Session1/disable_game_sounds.jpg)
+  </details>
+
+  <details>
+  <summary> Disable Use Camera Location From Play In Viewport </summary>
+
+  ![](./Assets/Session1/camera_location.jpg)
+  </details>
+
+  <details>
+  <summary> Enable Blueprint Save On Successful Compile </summary>
+
+  ![](./Assets/Session1/save_on_compile.jpg)
+  </details>
 
 ##### Mouse Cursor Icon :
   <details>
@@ -122,7 +154,7 @@
   <details>
   <summary>Click on "Additional Mouse Options" </summary>
 
-  ![](./Assets/Session1/Additional_Mouse_options.jpg)
+  ![](./Assets/Session1/Additional_Mouse_Options.jpg)
   </details>   
 
   <details>
