@@ -9,6 +9,8 @@
   * Variables (variable types / arrays / dictionary / lists / structs / enums)
   * Debug draw
   * Flow Control (branch/ loops)
+  * Functions
+  * Macros
   * Events
   * Timer
   * Construction Script
