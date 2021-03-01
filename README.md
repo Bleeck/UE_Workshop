@@ -47,7 +47,7 @@
 ### [session 6] AI
   * State Machine
   * Behavior tree
-  * tasks and blackboard
+  * Tasks and blackboard
   * EQS
 
 ### [session 7] Wave Manager
