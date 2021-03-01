@@ -10,9 +10,9 @@
 ---
 
 ### [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
-  - 1. <span style ="color:pink"> Launch the "Epic Games Launcher".</span>
-  - 2. <span style ="color:pink"> Navigate to Unreal Engine->Library</span>
-  - 3. <span style ="color:pink"> Click on launch on version 4.26.1</span>
+  - 1: <span style ="color:pink"> Launch the "Epic Games Launcher".</span>
+  - 2: <span style ="color:pink"> Navigate to Unreal Engine->Library</span>
+  - 3: <span style ="color:pink"> Click on launch on version 4.26.1</span>
   <details>
   <summary>click to expand </summary>
 
@@ -28,9 +28,9 @@
     After a few seconds the editor should start and you will be presented with
     the Unreal Project Browser.
 
-  - 4.  <span style ="color:pink"> Select Games. Click Next.</span>
-  - 5.  <span style ="color:pink"> Select First Person. Click Next".</span>
-  - 6.  <span style ="color:pink"> Leave settings to default and set a project location and name. Click Create Project.</span>
+  - 4:  <span style ="color:pink"> Select Games. Click Next.</span>
+  - 5:  <span style ="color:pink"> Select First Person. Click Next".</span>
+  - 6:  <span style ="color:pink"> Leave settings to default and set a project location and name. Click Create Project.</span>
 
 
   <details>
