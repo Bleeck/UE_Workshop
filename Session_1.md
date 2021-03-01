@@ -114,7 +114,7 @@
   </details>
 
   <details>
-  <summary> Type in "Search Detail" textbox to filter settings </summary>
+  <summary> Type in "Search Details" textbox to filter settings </summary>
 
   ![](./Assets/Session1/filter_settings.jpg)
   </details>
