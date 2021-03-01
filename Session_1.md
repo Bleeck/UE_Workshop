@@ -144,7 +144,10 @@
   ![](./Assets/Session1/save_on_compile.jpg)
   </details>
 
-##### Mouse Cursor Icon :
+  [ ]()
+  [ ]()
+
+#### Mouse Cursor Icon :
   <details>
   <summary>Search and open "mouse settings" in start menu </summary>
 
