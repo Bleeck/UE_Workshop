@@ -278,6 +278,74 @@
 ---
 
 ### [Printing to the screen and Detecting inputs](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+    To directly get an input (the quick, dirty and incorrect way), we can add a Keyboard Event
+    node in the event graph.
+
+    Right click and type "Keyboard Events X" and press enter.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Inputs/1.jpg)
+  </details>   
+
+###
+
+    To print something to the screen we need to add a
+    "Print String" node.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Inputs/2.jpg)
+  </details>   
+
+###
+
+    By connecting the "Pressed" execution pin from the Keyboard Event to the execution pin of
+    the "Print String", we will print the string to the screen every time the X key is pressed.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Inputs/3.jpg)
+  </details>   
+
+###
+
+
+    Placing an instance of "MyActor" in the level will not run the input event. That is because
+    we must first configure the actor to actually receive inputs.
+    Select the actor, in details find Input->Auto Receive Input and select "Player 0".
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Inputs/4.jpg)
+  </details>   
+
+###
+
+
+    Now if we press Play and press "X" we get the print string "Pressed X".
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Inputs/5.jpg)
+  </details>   
+
+###
 
 
 ---
