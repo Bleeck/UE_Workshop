@@ -13,7 +13,7 @@
   <details>
   <summary>2: Click on **Download** </summary>
 
-  ![](./Assets/session0/2_click_download.jpg)
+  ![](./Assets/Session0/2_click_download.jpg)
   </details>   
 
 ###
@@ -21,7 +21,7 @@
   <details>
   <summary>3: Click **Download Now** on the Publishing License variant </summary>
 
-  ![](./Assets/session0/3_download_license.jpg)
+  ![](./Assets/Session0/3_download_license.jpg)
   </details>   
 
 ###
@@ -34,7 +34,7 @@
 <details>
 <summary>4: Run the installer </summary>
 
-![](./Assets/session0/4_run_installer.jpg)
+![](./Assets/Session0/4_run_installer.jpg)
 </details>   
 
 ###
@@ -47,7 +47,7 @@
 
 <summary>6: Wait for any updates to download </summary>
 
-![](./Assets/session0/6_updates.jpg)
+![](./Assets/Session0/6_updates.jpg)
 </details>   
 
 ###
@@ -55,7 +55,7 @@
 <details>
 <summary>7: You will be presented with a Login Screen. If you don't have an Epic Games account, sign up for one. </summary>
 
-![](./Assets/session0/7_login.jpg)
+![](./Assets/Session0/7_login.jpg)
 </details>
 
 ###
@@ -69,7 +69,7 @@
 <details>
 <summary>8: Navigate to the Engine Versions and click on  **+**  to install a new version of the Unreal Engine. </summary>
 
-![](./Assets/session0/8_engine_versions.jpg)
+![](./Assets/Session0/8_engine_versions.jpg)
 </details>
 
 ###
@@ -77,7 +77,7 @@
 <details>
 <summary>9: This will add an Version in the Engine Versions list. Click on **Install**. </summary>
 
-![](./Assets/session0/9_add_version.jpg)
+![](./Assets/Session0/9_add_version.jpg)
 </details>
 
 ###
@@ -97,7 +97,7 @@
       <details>
       <summary>click on expand. </summary>
 
-      ![](./Assets/session0/12_modules.jpg)
+      ![](./Assets/Session0/12_modules.jpg)
       </details>
 
 ###      
@@ -111,7 +111,7 @@
 <details>
 <summary>14: Wait for the download / install to finish. </summary>
 
-![](./Assets/session0/13_wait_to_install.jpg)
+![](./Assets/Session0/13_wait_to_install.jpg)
 </details>
 
 ###
