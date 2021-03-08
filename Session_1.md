@@ -21,10 +21,6 @@
 
 ###
 
-    The Epic Games Launcher is the main software hub from Epic. It also contains  
-    their game store (which you can disable if you want to by going to Settings
-    and selecting Hide Game Library)
-
     After a few seconds the editor should start and you will be presented with
     the Unreal Project Browser.
 
