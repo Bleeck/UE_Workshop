@@ -12,7 +12,7 @@
 ### [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
   - 1: <span style ="color:pink"> Launch the "Epic Games Launcher".</span>
   - 2: <span style ="color:pink"> Navigate to Unreal Engine->Library</span>
-  - 3: <span style ="color:pink"> Click on launch on version 4.26.1</span>
+  - 3: <span style ="color:pink"> Click on launch on version 4.26.1 (or whatever 4.26.X version you have installed)</span>
   <details>
   <summary>click to expand </summary>
 
