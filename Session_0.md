@@ -1,7 +1,7 @@
 # Session 0
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
 
----
+--- 
 
 * [Installing Unreal](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
 ---
