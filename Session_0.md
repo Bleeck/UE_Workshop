@@ -1,9 +1,9 @@
 # Session 0
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
 
---- 
+---
 
-* [Installing Unreal](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
+* [Installing Unreal](https://github.com/Bleeck/UE_Workshop/blob/master/Session_0.md#installing-unreal)
 ---
 ### [Installing Unreal](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
   - 1: navigate to the [unreal page](https://www.unrealengine.com/)

@@ -1,5 +1,8 @@
 # WORKSHOP
 
+### [session 0: Installing Prerequisites](https://github.com/Bleeck/UE_Workshop/blob/master/Session_0.md)
+  * [Installing Unreal](https://github.com/Bleeck/UE_Workshop/blob/master/Session_0.md#installing-unreal)
+
 ### [session 1 : Project Creation and Blueprint Tutorial](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
   * [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#creating-a-new-project)
   * [Editor Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-basics)
