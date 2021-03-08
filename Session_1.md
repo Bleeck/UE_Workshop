@@ -7,6 +7,7 @@
 * [Editor Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-basics)
 * [Play In Editor](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#play-in-editor)
 * [Editor Settings](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-settings)
+* [Blueprint Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-settings)
 ---
 
 ### [Creating a new project](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
@@ -195,6 +196,10 @@
 
   ![](./Assets/Session1/OkMouse.jpg)
   </details>   
+  
+---
+
+### [Blueprint Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
