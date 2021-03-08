@@ -273,11 +273,11 @@
 
   ![](./Assets/Session1/blueprint/6.jpg)
   </details>   
-  
+
 ###
 ---
 
-### [Printing to the screen and detecting inputs](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+### [Printing to the screen and Detecting inputs](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
 
 ---
