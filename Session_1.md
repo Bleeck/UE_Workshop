@@ -209,6 +209,7 @@
 
   ![](./Assets/Session1/blueprint/1.jpg)
   </details>   
+
 ###
 
     Inside that folder, let's create our first blueprint. Right click in the content browser
@@ -219,6 +220,7 @@
 
   ![](./Assets/Session1/blueprint/2.jpg)
   </details>   
+
 ###
 
     Select Actor as the parent class. Name the blueprint "MyActor"
@@ -228,6 +230,7 @@
 
   ![](./Assets/Session1/blueprint/3.jpg)
   </details>   
+
 ###
 
     Note: An asterisk next to an asset in the content browser means that
@@ -240,6 +243,7 @@
 
   ![](./Assets/Session1/blueprint/4.jpg)
   </details>   
+
 ###
 
     Double click on the actor to open the blueprint editor.
@@ -255,6 +259,7 @@
 
   ![](./Assets/Session1/blueprint/5.jpg)
   </details>   
+
 ###
 
     The Blueprint Editor also has 2 extra panels that are hidden behind the viewport
@@ -268,6 +273,7 @@
 
   ![](./Assets/Session1/blueprint/6.jpg)
   </details>   
+  
 ###
 ---
 
