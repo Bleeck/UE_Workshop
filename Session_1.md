@@ -199,7 +199,80 @@
 
 ---
 
-### [Blueprint Basics](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#blueprint-basics)
+### [Blueprint Basics](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+    Create a folder by RMB click in the content browser and selecting
+    "New Folder". Name it "Work".
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/blueprint/1.jpg)
+  </details>   
+###
+
+    Inside that folder, let's create our first blueprint. Right click in the content browser
+    and select Blueprints-> Blueprint Class.
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/blueprint/2.jpg)
+  </details>   
+###
+
+    Select Actor as the parent class. Name the blueprint "MyActor"
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/blueprint/3.jpg)
+  </details>   
+###
+
+    Note: An asterisk next to an asset in the content browser means that
+    the asset has unsaved modifications. You can save by RMB clicking on the asset
+    and selecting "Save", selecting the asset and pressing CTRL+S or by
+    pressing "CTRL + SHIFT + S" which saves everything.
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/blueprint/4.jpg)
+  </details>   
+###
+
+    Double click on the actor to open the blueprint editor.
+
+    The Blueprint Editor contains the following elements:
+      - components panel: this is where you can add or remove components on your actor
+      - my blueprint: this is where you declare your functions, variables, events etc
+      - toolbar: this is were you can find the main debugging controls
+      - Details panel
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/blueprint/5.jpg)
+  </details>   
+###
+
+    The Blueprint Editor also has 2 extra panels that are hidden behind the viewport
+    panel. Those are:
+    - the construction script : useful for level design automation
+    - the event graph : the place where you actually do your blueprint
+    scripting
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/blueprint/6.jpg)
+  </details>   
+###
+---
+
+### [Printing to the screen and detecting inputs](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
 
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
