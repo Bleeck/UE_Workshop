@@ -134,4 +134,4 @@
       * updating the Launcher
       * restarting the Launcher
       * running the Launcher as Admin
-      * disabling off the VPN
+      * turning off the VPN
