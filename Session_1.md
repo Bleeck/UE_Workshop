@@ -159,9 +159,9 @@
   [ ]()
 
 #### Mouse Cursor Icon :
-     The default mouse cursor behavior makes the cursor difficult to see. The
-     editor uses the windows "Precision" cursor while the mouse is over the
-     viewport. In order to change it perform the following steps:
+     The default mouse cursor behavior makes the cursor difficult to see in the
+     editor viewport. The editor uses the windows "Precision" cursor while the mouse
+     is over the viewport. In order to change it perform the following steps:
 
   <details>
   <summary> 1: Search and open "mouse settings" in start menu </summary>

@@ -11,7 +11,7 @@
 ###
 
   <details>
-  <summary>2: Click on **Download** </summary>
+  <summary>2: Click on "Download" </summary>
 
   ![](./Assets/Session0/2_click_download.jpg)
   </details>   
@@ -19,7 +19,7 @@
 ###
 
   <details>
-  <summary>3: Click **Download Now** on the Publishing License variant </summary>
+  <summary>3: Click "Download Now" on the Publishing License variant </summary>
 
   ![](./Assets/Session0/3_download_license.jpg)
   </details>   
@@ -39,7 +39,7 @@
 
 ###
 
-5: <span style = "color:pink"> Choose an install location and after that click on **Install**</span>
+5: <span style = "color:pink"> Choose an install location and after that click on "Install"</span>
 
 <details>
 
@@ -67,7 +67,7 @@
 ###
 
 <details>
-<summary>8: Navigate to the Engine Versions and click on  **+**  to install a new version of the Unreal Engine. </summary>
+<summary>8: Navigate to the Engine Versions and click on  "+"  to install a new version of the Unreal Engine. </summary>
 
 ![](./Assets/Session0/8_engine_versions.jpg)
 </details>
@@ -75,7 +75,7 @@
 ###
 
 <details>
-<summary>9: This will add a Version in the Engine Versions list. Click on **Install**. </summary>
+<summary>9: This will add a Version in the Engine Versions list. Click on "Install". </summary>
 
 ![](./Assets/Session0/9_add_version.jpg)
 </details>
@@ -93,7 +93,7 @@
 
 10: The "Folder" parameter is the path where all future versions of the engine will be installed to. The "Path" parameter is where the current version of the engine will be installed to.
 
-11: Click on **Options**
+11: Click on "Options"
 
   - 12: Make sure that only selected options are:
       * Core Components
@@ -111,7 +111,7 @@
 
 ###      
 
-  13: Click on **Apply** and after that click on **Install**
+  13: Click on "Apply" and after that click on "Install"
 
 
 
