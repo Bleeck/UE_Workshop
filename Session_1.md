@@ -24,6 +24,9 @@
     After a few seconds the editor should start and you will be presented with
     the Unreal Project Browser.
 
+    Note: You might be asked to install additional features. Allow
+    the editor to install what it needs (like dotnet 3.5 etc).
+
   - 4:  <span style ="color:pink"> Select Games. Click Next.</span>
   - 5:  <span style ="color:pink"> Select First Person. Click Next".</span>
   - 6:  <span style ="color:pink"> Leave settings to default and set a project location and name. Click Create Project.</span>
@@ -41,7 +44,7 @@
 
     The Unreal Project Browser allows you to open an existing project or create
     a new one.
-    The two main aspects to consider are:
+    When creating a new project there are two main aspects to consider:
       - the template project to start from
       - blueprint or C++ project
 
