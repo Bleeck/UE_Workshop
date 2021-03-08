@@ -153,7 +153,7 @@
 
       This setting will cause the editor to automatically save your blueprint
       when it successfully compiles. I've found that it is extremely rare that
-      you don't also click the save button after compiling (usually it's because
+      you don't also click the save button after compiling (and it's usually because
       you forget to save)
   [ ]()
   [ ]()
