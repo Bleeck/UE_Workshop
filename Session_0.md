@@ -75,10 +75,19 @@
 ###
 
 <details>
-<summary>9: This will add an Version in the Engine Versions list. Click on **Install**. </summary>
+<summary>9: This will add a Version in the Engine Versions list. Click on **Install**. </summary>
 
 ![](./Assets/Session0/9_add_version.jpg)
 </details>
+
+###
+
+    At the time of writing this documentation, the current engine
+    version was 4.26.1. When a new update to version 4.26 is released,
+    it won't be possible to install version 4.26.1 from the launcher.
+    In that case, just install whatever 4.26.X version of the engine
+    is available.
+
 
 ###
 
