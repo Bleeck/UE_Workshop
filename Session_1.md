@@ -352,5 +352,107 @@
 
 ### [Variables](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
+    You create variables by clicking on the plus sign in the Variables section
+    of the "MyBlueprint" panel.
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/1.jpg)
+  </details>   
+
+###
+
+    You define a variable by setting 2 properties. It's name and it's
+    type.
+    After clicking on the plus icon you can immediately start to type in it's name.
+    We'll name this variable "Counter".
+
+    After typing in the name, you LMB click on the icon to the left of the newly
+    variable. Select "Integer" from the context menu.
+
+    Note: the color of the icon can also be used to quickly determine the type of
+    a variable (green = float, cyan-ish = integer, red = boolean, etc)
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/2.jpg)
+  </details>   
+
+###
+
+    Note: Optionally you can also set it's default value (if it differs from the standard
+    default value of the specified type).
+
+    You do this by selecting the variable and going into the Details panel. That is where
+    you can set a different initialization value for this specific variable.
+
+     The default value for integer variables is 0,
+    and for our use case we don't need to change it.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/1b.jpg)
+  </details>   
+
+###
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/3.jpg)
+  </details>   
+
+###
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/4.jpg)
+  </details>   
+
+###
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/5.jpg)
+  </details>   
+
+###
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/6.jpg)
+  </details>   
+
+###
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/7.jpg)
+  </details>   
+
+###
+
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
