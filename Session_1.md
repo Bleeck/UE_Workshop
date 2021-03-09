@@ -635,7 +635,7 @@
 
 ###
 
-    Note: for boolean values this can be achieved easyer by setting
+    Note: for boolean values this can be achieved easier by setting
     IsLineGreen = not IsLineGreen (IsLineGreen = !IsLineGreen).
 
     The "NOT" operator is the negation operator. NOT True is False and NOT False is True.
