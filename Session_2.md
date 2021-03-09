@@ -86,10 +86,20 @@
     the center of the map.
 ---
 ### [Switch projectile logic to raycast](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
-    Open the "FirstPersonCharacter" blueprint.
 
-    
+    In the FirstPersonCharacter blueprint, change the code that spawns the projectile.
+    Replace it with a LineTraceByChannel. The trace start and end position should
+    be relative to the camera
 
+---
+### [Change Hud to fix aiming offset](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
+
+    In the FirstPersonHud blueprint, change the Y Size offset from 20 to -5
+---
+###[Add hit effects](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
+
+    Use a SpawnEmitterAtLocation node and set the location to the Impact Point the
+    Line Trace.
 
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
