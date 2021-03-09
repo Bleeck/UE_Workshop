@@ -477,6 +477,10 @@
     We've now generated a new value that is equal to "Counter + 1". We now want to store
     this value back into "Counter". To do this we drag a new copy of the "Counter"
     variable into the graph. On release, we select "Set".
+
+    Note: for the simple task of just incrementing a value by 1 there also exists the
+     "Increment int" node which increases and also sets the variable.
+
 ###
 
   <details>
@@ -583,5 +587,102 @@
 ###
 
 ---
+### [Flow Control](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
+    The execution of blueprints is controlled by the white execution wires. Nodes execute
+    in the order that the wire passes through them.
+
+    The flow of execution can be controlled with certain utility nodes.
+
+    One of the flow control nodes is the Branch node. (if then else)
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/FlowControl/1.jpg)
+  </details>   
+
+###
+
+    Depending on the value of the "Condition" input, the execution will continue with
+    either the "True" execution pin or the "False" execution pin.
+
+    Add a new variable, call it IsLineGreen and make it of type boolean.
+
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/FlowControl/2.jpg)
+  </details>   
+
+###
+
+    When we press the "X" key we want to flip the value of the boolean IsLineGreen.
+    This means that if IsLineGreen is True then make IsLineGreen false.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/FlowControl/3.jpg)
+  </details>  
+
+###
+
+    Note: for boolean values this can be achieved easyer by setting
+    IsLineGreen = not IsLineGreen (IsLineGreen = !IsLineGreen).
+
+    The "NOT" operator is the negation operator. NOT True is False and NOT False is True.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/FlowControl/4.jpg)
+  </details>  
+
+###    
+
+    After making IsLineGreen negate itself every time "X" is pressed we will
+    add a branch node before the "Draw Debug Line".
+    By duplicating the "Draw Debug Line" node, we can link the first copy to the
+    True execution pin of the Branch node, and the second one to the False execution pin.
+
+    In the "Condition" parameter of the Branch node, we link the "IsLineGreen" variable.
+
+    All that remains is to make sure that the Draw Debug Line connected to the True
+    execution pin has it's line color set to green.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/FlowControl/5.jpg)
+  </details>  
+
+###    
+
+    If we now start PIE and press "X", we will notice that the line in the center
+    of the map switches between red and green color.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/FlowControl/6.jpg)
+  ![](./Assets/Session1/FlowControl/7.jpg)
+  </details>  
+
+###    
+
+---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
