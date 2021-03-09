@@ -685,13 +685,67 @@
 ###    
 ---
 ### [Functions](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+    Functions are a good way to manage complexity.
+
+    You can create a function by clicking on the plus icon in the Functions section
+    of the "My Blueprint" panel.
+
+    Name the function "DrawLines"
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Functions/1.jpg)
+  </details>  
+
+###    
+
+    The newly created function should also open as a tab and you can navigate to it by
+    clicking on the tab.
+
+    Note: double clicking the function in the function list from "MyBlueprint" will also
+    open and navigate to this tab.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Functions/2.jpg)
+  </details>  
+
+###    
+
+    We can now move all the nodes, that are currently connected to the "Tick" event,
+    inside of the DrawLines function.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Functions/3.jpg)
+  </details>  
+
+###    
 ---
 ### [Macros](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+
 ---
 ### [Events](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+
 ---
 ### [Timer](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+
 ---
 ### [Construction Script](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
