@@ -570,7 +570,17 @@
     Setting the draw duration to 0 will render the line for only one frame.
     After that we can connect the node to the "Tick" event. This event fires
     every frame. This means that every frame a line will be drawn that last
-    for exactly 1 frame. 
+    for exactly 1 frame.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/DebugDraw/4.jpg)
+  </details>   
+
+###
 
 ---
 
