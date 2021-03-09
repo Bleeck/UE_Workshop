@@ -752,6 +752,19 @@
 
     The construction script is a tool for Level Design automation.
 
-    
+    The "Construction Script" event fires every time the actor is modified in the editor.
+    Moving, scaling, rotating, changing any parameter. All of these actions
+    fire the "Construction Script" event.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/ConstructionScript/1.jpg)
+  </details>  
+
+###    
+
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
