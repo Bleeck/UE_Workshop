@@ -100,6 +100,7 @@
 
     Use a SpawnEmitterAtLocation node and set the location to the Impact Point the
     Line Trace.
+    Use P_Explosion as the emitter template.
 
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
