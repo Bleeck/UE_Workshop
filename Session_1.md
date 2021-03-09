@@ -745,12 +745,6 @@
 
 ###    
 
-
-
----
-### [Macros](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
-
-
 ---
 ### [Events](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
