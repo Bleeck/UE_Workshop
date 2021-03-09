@@ -10,7 +10,7 @@
   * [Editor Settings](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md#editor-settings)
   * [Blueprints Basics](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#blueprint-basics)
   * [Printing to the screen and Detecting inputs](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#printing-to-the-screen-and-detecting-inputs)
-  * Variables
+  * [Variables](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#variables)
   * Debug draw
   * Flow Control (branch/ loops)
   * Functions
