@@ -13,8 +13,7 @@
   * [Variables](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#variables)
   * [Debug draw](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#debug-draw)
   * [Flow Control](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#flow-control)
-  * Functions
-  * Macros
+  * [Functions](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#functions)
   * Events
   * Timer
   * Construction Script
