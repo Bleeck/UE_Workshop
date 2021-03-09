@@ -2,7 +2,7 @@
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
 
 ---
-* (Inputs 2.0 and spawning actors)[https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#inputs-20-and-spawning-actors]
+* [Inputs 2.0 and spawning actors](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#inputs-20-and-spawning-actors)
 * Switch projectile logic to raycast
 * Change Hud to fix aiming offset
 * Particle systems -> Add hit effects
