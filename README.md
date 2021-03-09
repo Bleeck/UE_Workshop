@@ -20,6 +20,6 @@
   ### [session 2 : Game Math And Projectile](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
   * [Inputs](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#inputs)
   * [Spawning Actors](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#spawning-actors)
-  * Switch projectile logic to raycast
+  * [Switch projectile logic to raycast](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#switch-projectile-logic-to-raycast)
   * Change Hud to fix aiming offset
   * Particle systems -> Add hit effects
