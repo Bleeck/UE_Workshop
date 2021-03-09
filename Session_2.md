@@ -2,12 +2,12 @@
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
 
 ---
-* [Inputs 2.0 and spawning actors](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#inputs-20-and-spawning-actors)
+* [Inputs 2.0 and spawning actors](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#inputs)
 * Switch projectile logic to raycast
 * Change Hud to fix aiming offset
 * Particle systems -> Add hit effects
 ---
-### [Inputs 2.0 and spawning actors](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
+### [Inputs](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
 
     Inputs need a layer of abstraction in order to accommodate different input devices
     and allow the player to remap them during runtime.
@@ -58,6 +58,8 @@
   </details>   
 
 ###
+
+
 
 
 ---
