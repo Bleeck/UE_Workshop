@@ -325,8 +325,9 @@
     If we now place an actor into the level, press Play, and then press the "X" key,
     we'll notice that nothing happens. That is because we must first configure the actor
     to actually receive inputs.
-    
-    Select the actor, in details find Input->Auto Receive Input and select "Player 0".
+
+    Select the actor, in the Details panel find Input->Auto Receive Input
+    and select "Player 0".
 
 ###
 
