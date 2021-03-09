@@ -731,6 +731,22 @@
   </details>  
 
 ###    
+
+    The last thing needed is to drag in a copy of the function into the Event Graph and
+    link it to the "Tick" node.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Functions/4.jpg)
+  </details>  
+
+###    
+
+
+
 ---
 ### [Macros](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
