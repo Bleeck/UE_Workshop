@@ -310,6 +310,7 @@
 
     By connecting the "Pressed" execution pin from the Keyboard Event to the execution pin of
     the "Print String", we will print the string to the screen every time the X key is pressed.
+    Let's change the "In String" value by typing in "Pressed X".
 
 ###
 
