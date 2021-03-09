@@ -551,6 +551,27 @@
 
 ###
 
+    Connect the "Pressed" execution pin of the "X" keyboard event to the Debug Draw
+    Line node.
+
+    Press "Play" and then press "X". In the center of the map you should see a red
+    line.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/DebugDraw/3.jpg)
+  </details>   
+
+###
+
+    Setting the draw duration to 0 will render the line for only one frame.
+    After that we can connect the node to the "Tick" event. This event fires
+    every frame. This means that every frame a line will be drawn that last
+    for exactly 1 frame. 
+
 ---
 
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
