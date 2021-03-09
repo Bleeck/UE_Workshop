@@ -385,13 +385,13 @@
 
 ###
 
-    Note: Optionally you can also set it's default value (if it differs from the standard
-    default value of the specified type).
+    Note: Optionally you can also set it's default value (if you need it to differ from the
+    standard default value of the specified type).
 
     You do this by selecting the variable and going into the Details panel. That is where
     you can set a different initialization value for this specific variable.
 
-     The default value for integer variables is 0,
+    The default value for integer variables is 0,
     and for our use case we don't need to change it.
 
 ###
@@ -404,6 +404,8 @@
 
 ###
 
+    To use this variable you need to drag and drop it into the event graph.
+
 ###
 
   <details>
@@ -413,6 +415,14 @@
   </details>   
 
 ###
+
+    When you release the click, you will be asked if you either want to "Get" or "Set" the
+    variable.
+
+    Getting allows you to read the value of the variable.
+    Setting allows you to write a value into the variable.
+
+    We want to read the value so we will select "Get Counter".
 
 ###
 
@@ -424,6 +434,18 @@
 
 ###
 
+    We can now drag off a line from the new node and we will be presented with a list
+    of available actions. This list can be filtered by typing in the name of the
+    action we want to perform.
+
+    In our case, we want to add the value of this variable with a number.
+
+    Type in "+".
+
+    This will present us with a few variations. These mostly handle addition between
+    different variable types (c++ operator overloads) . We want to add an integer to an
+    integer, so we'll select "int + int".
+
 ###
 
   <details>
@@ -434,6 +456,22 @@
 
 ###
 
+    The + node already has a default value of 1 set into the second  parameter.
+    We can, if we'd like, link in variable in the second input, but we just want to
+    increase "counter" by one every time we press "X". So we'll leave it as is.
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/5b.jpg)
+  </details>   
+
+###
+
+    We've now generated a new value that is equal to "Counter + 1". We now want to store
+    this value back into "Counter". To do this we drag a new copy of the "Counter"
+    variable into the graph. On release, we select "Set".
 ###
 
   <details>
@@ -444,6 +482,34 @@
 
 ###
 
+    The "Set" node requires an execution string to pass through it.
+    We link it to the "Pressed" execution pin of the "X" keyboard event.
+
+    We also link it with the value pin with the result of our addition.
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/Variables/7a.jpg)
+  </details>   
+
+###
+
+    Lastly, we need to link the execution wire from the "Set" node with the
+    input execution pin of the "Print String" node.
+
+    To print the value of the "Counter" variable, we can drag in another "Get" variant
+    of the "Counter" variable. Alternatively, we can just link the output of the
+    "Set Counter" node with the "In String" pin of "Print String" node.
+
+    We can notice that the "In String" of type string because it's colored pink. You can
+    also view the type by hovering the mouse over the input pin. For these base types,
+    unreal will usually automatically add conversion nodes.
+
+    By linking in the output of the "Set Counter" node with the "In String" of the
+    "Print String" node, unreal automatically adds an "int to string" node between them.
+
 ###
 
   <details>
@@ -453,6 +519,5 @@
   </details>   
 
 ###
-
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
