@@ -524,4 +524,32 @@
 
 ###
 ---
+### [Debug draw](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
+
+    Another useful way of debugging our blueprints comes in the form of "Debug Draw".
+    This allows us to draw shapes in 3D space. This is extremely useful when trying to
+    debug raycasts (collision tests where you check to see if a line intersects geometry).
+
+    To draw a line we use the Draw Debug Line node.
+    We set the following parameters:
+    - line start : 0 0 0 (the line starts at the origin of the world)
+    - line end : 0 0 500 (the line goes straight up for 5 meters)
+    - line color : select a red color from the color picker
+    - duration : 5 (the line will only be displayed for 5 seconds)
+    - thickness : 0 (this doesn't mean that the line won't be visible. If you leave
+    this value at 0, unreal will just use the default thickes)
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session1/DebugDraw/1.jpg)
+  ![](./Assets/Session1/DebugDraw/2.jpg)
+  </details>   
+
+###
+
+---
+
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
