@@ -748,16 +748,10 @@
 ###    
 
 ---
-### [Events](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
-
-
----
-### [Timer](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
-
-
----
 ### [Construction Script](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
+    The construction script is a tool for Level Design automation.
 
+    
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
