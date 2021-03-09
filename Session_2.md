@@ -64,5 +64,27 @@
 
 ### [Spawning Actors](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
 
+    You can spawn actors with the "Spawn Actor from Class" node.
+
+    Set the class parameter to the "Props" object previously created.
+
+    Set the "Collision Handling Override" to "Always Spawn, Ignore Collisions"
+
+    Link the Spawn Actor from Class node with the InputAction SpawnInput.
+
+###
+
+  <details>
+  <summary>click to expand </summary>
+
+  ![](./Assets/Session2/Spawn/1.jpg)
+  </details>   
+
+###
+
+    Start a PIE session and press "X". A "Props" actor will spawn in
+    the center of the map.
+
+    
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
