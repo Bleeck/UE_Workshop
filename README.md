@@ -11,7 +11,7 @@
   * [Blueprints Basics](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#blueprint-basics)
   * [Printing to the screen and Detecting inputs](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#printing-to-the-screen-and-detecting-inputs)
   * [Variables](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#variables)
-  * Debug draw
+  * [Debug draw](https://github.com/Bleeck/UE_Workshop/blob/master/Session_1.md#debug-draw)
   * Flow Control (branch/ loops)
   * Functions
   * Macros
