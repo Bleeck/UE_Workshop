@@ -96,7 +96,7 @@
 
     In the FirstPersonHud blueprint, change the Y Size offset from 20 to -5
 ---
-###[Add hit effects](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
+### [Add hit effects](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
 
     Use a SpawnEmitterAtLocation node and set the location to the Impact Point the
     Line Trace.
