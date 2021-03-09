@@ -18,7 +18,7 @@
 
 
   ### [session 2 : Game Math And Projectile](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
-  * [Dot/Cross](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#dot/cross)
+  * [Dot/Cross](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#dotcross)
   * Sin/Cross
   * Radians
   * quaternions
