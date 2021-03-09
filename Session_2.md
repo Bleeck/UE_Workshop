@@ -2,11 +2,12 @@
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
 
 ---
-* [Dot/Cross](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#dotcross)
+* Switch projectile logic to raycast
+* Change Hud to fix aiming offset
+* Particle systems -> Add hit effects
 ---
-### [Dot/Cross](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
+* Switch projectile logic to raycast
 
-    
 
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
