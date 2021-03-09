@@ -348,6 +348,9 @@
 
 ###
 
+---
+
+### [Variables](https://github.com/Bleeck/UE_Workshop/blob/main/Session_1.md)
 
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
