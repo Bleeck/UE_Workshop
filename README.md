@@ -21,5 +21,5 @@
   * [Inputs](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#inputs)
   * [Spawning Actors](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#spawning-actors)
   * [Switch projectile logic to raycast](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#switch-projectile-logic-to-raycast)
-  * Change Hud to fix aiming offset
-  * Add hit effects
+  * [Change Hud to fix aiming offset](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#change-hud-to-fix-aiming-offset)
+  * [Add hit effects](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#add-hit-effects)
