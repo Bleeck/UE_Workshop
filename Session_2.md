@@ -111,7 +111,7 @@
 
     Create a new blueprint and set the parent to Actor Component.
 ---
-### [Blueprint Interafaces](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
+### [Blueprint Interfaces](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
 
     Blueprint interfaces are an easy way of transmitting messages between objects.
 
