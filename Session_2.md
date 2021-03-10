@@ -9,6 +9,7 @@
 * [Add hit effects](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#add-hit-effects)
 * [Blueprint Components](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#blueprint-components)
 * [Blueprint Interfaces](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#blueprint-interfaces)
+* [Health Component TextRenderer](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#health-component-textrenderer)
 
 ---
 ### [Inputs](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
@@ -122,7 +123,11 @@
 
     Set the "Props" actor to use the blueprint interface.
 
+---
 
+### [Health Component TextRenderer](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
+
+    Use the Add Text Renderer Component node.
 
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
