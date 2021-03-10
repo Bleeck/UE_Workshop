@@ -7,6 +7,9 @@
 * [Switch projectile logic to raycast](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#switch-projectile-logic-to-raycast)
 * [Change Hud to fix aiming offset](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#change-hud-to-fix-aiming-offset)
 * [Add hit effects](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#add-hit-effects)
+* [Blueprint Components](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#blueprint-components)
+* [Blueprint Interfaces](https://github.com/Bleeck/UE_Workshop/blob/master/Session_2.md#blueprint-interfaces)
+
 ---
 ### [Inputs](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
 
@@ -101,6 +104,22 @@
     Use a SpawnEmitterAtLocation node and set the location to the Impact Point the
     Line Trace.
     Use P_Explosion as the emitter template.
+---
+### [Blueprint Components](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
 
+    Blueprint Components are reusable blueprint graphs (closer to the Unity approach).
+
+    Create a new blueprint and set the parent to Actor Component.
+---
+### [Blueprint Interafaces](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
+
+    Blueprint interfaces are an easy way of transmitting messages between objects.
+
+    Create a new interface and name it "Health Interface".
+    Inside it define two functions:
+      - Give Damage
+      - Kill
+
+    Set the "Props" actor to use the blueprint interface.
 ---
 [Back to workshop](https://github.com/Bleeck/UE_Workshop)
