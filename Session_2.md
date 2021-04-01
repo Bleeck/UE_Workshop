@@ -112,18 +112,6 @@
 
     Create a new blueprint and set the parent to Actor Component.
 ---
-### [Blueprint Interfaces](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
-
-    Blueprint interfaces are an easy way of transmitting messages between objects.
-
-    Create a new interface and name it "Health Interface".
-    Inside it define two functions:
-      - Give Damage
-      - Kill
-
-    Set the "Props" actor to use the blueprint interface.
-
----
 
 ### [Health Component TextRenderer](https://github.com/Bleeck/UE_Workshop/blob/main/Session_2.md)
 
